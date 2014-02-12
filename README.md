@@ -490,7 +490,7 @@ Most Gettext tools will look up the Plural Forms for a given locale for you. Thi
 
 ## Version
 
-`0.1.7`
+`0.1.8`
 
 ## TODO
 
